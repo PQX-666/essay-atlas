@@ -4,10 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f8f7f4">
+  <meta name="author" content="辰轩">
   <meta name="description" content="20篇四六级作文，80张手绘导图。通过闭卷回忆、间隔复习与换题写作，练习记住和运用。">
   <title>作文集</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="guide.css">
   <script defer src="data.js"></script>
   <script defer src="transfer-data.js"></script>
   <script defer src="study-engine.js"></script>
@@ -16,13 +18,16 @@
 <body>
   <a class="skip-link" id="skip-link" href="#main">跳到内容</a>
   <header class="site-header">
-    <a class="wordmark" href="#library" aria-label="作文集，图像库">作文集</a>
+    <div class="brand"><a class="wordmark" href="#library" aria-label="作文集，图像库">作文集</a><span class="author-credit">作者 辰轩</span></div>
     <nav aria-label="主要导航">
       <a href="#library" data-nav="library">图像库</a>
       <a href="#recall" data-nav="recall">回忆训练</a>
       <a href="#transfer" data-nav="transfer">迁移训练</a>
     </nav>
-    <button class="icon-button" id="settings-button" aria-label="学习记录与设置" title="学习记录与设置"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m9 3-.6 2.2-2 .9-2-.6-2 3.5 1.5 1.7v2.6L2.4 15l2 3.5 2-.6 2 .9L9 21h4l.6-2.2 2-.9 2 .6 2-3.5-1.5-1.7v-2.6l1.5-1.7-2-3.5-2 .6-2-.9L13 3Z" transform="translate(1 0)"/><circle cx="12" cy="12" r="3"/></svg></button>
+    <div class="header-actions">
+      <a class="help-link" href="guide.html" target="_blank" rel="noopener" aria-label="使用指南（新标签页）" title="使用指南（新标签页）"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9a2.5 2.5 0 0 1 4.8.9c0 1.8-2.4 2-2.4 3.8"/><circle cx="12" cy="17" r=".7" fill="currentColor" stroke="none"/></svg><span>使用指南</span></a>
+      <button class="icon-button" id="settings-button" aria-label="学习记录与设置" title="学习记录与设置"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m9 3-.6 2.2-2 .9-2-.6-2 3.5 1.5 1.7v2.6L2.4 15l2 3.5 2-.6 2 .9L9 21h4l.6-2.2 2-.9 2 .6 2-3.5-1.5-1.7v-2.6l1.5-1.7-2-3.5-2 .6-2-.9L13 3Z" transform="translate(1 0)"/><circle cx="12" cy="12" r="3"/></svg></button>
+    </div>
   </header>
   <main id="main" tabindex="-1"></main>
   <dialog id="viewer" class="image-dialog" aria-label="查看导图"></dialog>
