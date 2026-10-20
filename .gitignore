@@ -1,0 +1,9 @@
+node_modules/
+.local/
+qa-output/
+*.tar.gz
+*.zip
+__pycache__/
+.openai/
+作文集_学习备份_*.json
+*.log

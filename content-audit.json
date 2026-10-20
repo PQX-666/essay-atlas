@@ -1,0 +1,959 @@
+{
+  "articles": [
+    {
+      "id": "cet4-01",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 11,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "ada413931cc7a66ca4286fd84c1f6d22cbdcf50b80f899cee74bcad65f8160c4"
+    },
+    {
+      "id": "cet4-02",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 11,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "3e278740fa28bc283f970c91db6190dacadd99d20b3b0616eb9a04ff34de985b"
+    },
+    {
+      "id": "cet4-03",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 10,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "a08aa6d523c182592a0acc61859f3228afd7b923404e9739303fadcca30dbd97"
+    },
+    {
+      "id": "cet4-04",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 11,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "2456a621ebdcf021ec34f233d27adbb6cdccd4309e541ee356f9fb24b24db248"
+    },
+    {
+      "id": "cet4-05",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 10,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "aff0fb4cf882e5e0b09b7d00ef861b4f26b12f7eba6ade41335a24d90d6a222a"
+    },
+    {
+      "id": "cet4-06",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 9,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "6bf35f834e3eef10ea95ff0a1364f4099147447b9abf885dbaee5648dd284f1b"
+    },
+    {
+      "id": "cet4-07",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 9,
+      "paragraphs": 4,
+      "sourceTextMatch": true,
+      "bodySha256": "299d2e94fb038d20363fca009fb2a8824e1eba88b7c86bda28f9e1e535a0ace3"
+    },
+    {
+      "id": "cet4-08",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 12,
+      "paragraphs": 5,
+      "sourceTextMatch": true,
+      "bodySha256": "27de39309328f999abb226948d90264343b8268d25caa4c27f2984caf4e13d7f"
+    },
+    {
+      "id": "cet4-09",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 10,
+      "paragraphs": 7,
+      "sourceTextMatch": true,
+      "bodySha256": "ea8d19ed8434078fa377bac4e3d4edcbee1d9c0bce5fb87eb115f129a9fc4e79"
+    },
+    {
+      "id": "cet4-10",
+      "source": "四级作文10篇背诵范文与模板.md",
+      "sentences": 10,
+      "paragraphs": 5,
+      "sourceTextMatch": true,
+      "bodySha256": "849422c45e382d2d554b3398124947638a5b1c63deff99dce5c3a8542e13a5b6"
+    },
+    {
+      "id": "cet6-01",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 12,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "63af5160f37a9dea34c48ef5757a4cba23419ba41692335d24887c74fb1a4232"
+    },
+    {
+      "id": "cet6-02",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 13,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "e260d89df06c202c3ccb94cc01530ba5129204f7268a2d1578cddf1eeff899cc"
+    },
+    {
+      "id": "cet6-03",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 14,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "db01212987f2a96f79991240034c5a346ff7bd2e6f30107d359c8a72ffdb316a"
+    },
+    {
+      "id": "cet6-04",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 12,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "f14c25491ff2c8b8867fef26428b03dbf4c0fa323594add3a5fcc93d5133d861"
+    },
+    {
+      "id": "cet6-05",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 13,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "f44520071e9d319ae64e4c8aaa0c2e4385349cfc06c8c50cebf52b6c0ab5b63c"
+    },
+    {
+      "id": "cet6-06",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 13,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "1aafa063c60d98f28a64414ea24e0df6e8190f86908970d6a83e068b9de3ee71"
+    },
+    {
+      "id": "cet6-07",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 13,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "38a71f8ac8dc49e600fb1a0418f026612b646b5ae113a42c25c18984f0c4bf1a"
+    },
+    {
+      "id": "cet6-08",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 13,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "bf6f93b91a2133dd094dc6cfdafcf4ad159fb7b3b511363f0b227ca6df3009fc"
+    },
+    {
+      "id": "cet6-09",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 14,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "bc4d4ffbb5479c4861d6487deafb7dbc30b9c6bd394989fdce9a4ea7ff5b7a37"
+    },
+    {
+      "id": "cet6-10",
+      "source": "六级作文10篇背诵范文与模板.md",
+      "sentences": 12,
+      "paragraphs": 3,
+      "sourceTextMatch": true,
+      "translationScope": "paragraph",
+      "bodySha256": "9fead714372590cb9e7199e416a767007a4ae7c1c3cadd9d6532dd5a8325f643"
+    }
+  ],
+  "images": [
+    {
+      "id": "cet4-01-01",
+      "source": "CET4_40_Images_手绘生成版\\01_采取行动\\01_01-01_逐句拆解.png",
+      "sourceSha256": "93cdcc87be536c5f3b74573d07979f5ffac5ad116dd2518b2ff33c18e5c14695",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 415792,
+      "thumbBytes": 94920
+    },
+    {
+      "id": "cet4-01-02",
+      "source": "CET4_40_Images_手绘生成版\\01_采取行动\\02_01-02_结构解析.png",
+      "sourceSha256": "102cc7f7cc45aa3fe4dfe7f555d819a4b51183c2aae1d12aaa1693b3095afa56",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 389938,
+      "thumbBytes": 82662
+    },
+    {
+      "id": "cet4-01-03",
+      "source": "CET4_40_Images_手绘生成版\\01_采取行动\\03_01-03_记忆导图.png",
+      "sourceSha256": "5b3f1c85dee6841509224cbc826131ac4a87c5a30fcfeb4101d6134a5abb80a1",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 401320,
+      "thumbBytes": 92816
+    },
+    {
+      "id": "cet4-01-04",
+      "source": "CET4_40_Images_手绘生成版\\01_采取行动\\04_01-04_主题迁移.png",
+      "sourceSha256": "c397dc724280509f49e7d25b6e5fdf5f2aa702cf7329ffe4c3fabd24ea1cd9cd",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 408978,
+      "thumbBytes": 86238
+    },
+    {
+      "id": "cet4-02-01",
+      "source": "CET4_40_Images_手绘生成版\\02_阅读文学\\05_02-01_逐句拆解.png",
+      "sourceSha256": "42a8cc73c713b060478ac0c3122643f0334531b029fbc9a1fb1f323a24e030ad",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 404698,
+      "thumbBytes": 84544
+    },
+    {
+      "id": "cet4-02-02",
+      "source": "CET4_40_Images_手绘生成版\\02_阅读文学\\06_02-02_结构解析.png",
+      "sourceSha256": "4ae8df41dd0889719f6a0824b87c4454f94451448d08d08d4751e3cebe2c03ac",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 395390,
+      "thumbBytes": 84352
+    },
+    {
+      "id": "cet4-02-03",
+      "source": "CET4_40_Images_手绘生成版\\02_阅读文学\\07_02-03_记忆导图.png",
+      "sourceSha256": "08a404bfea22421683161c92c53b12b63f7ac2366647826cc2bde48e26cda25c",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 443896,
+      "thumbBytes": 97578
+    },
+    {
+      "id": "cet4-02-04",
+      "source": "CET4_40_Images_手绘生成版\\02_阅读文学\\08_02-04_主题迁移.png",
+      "sourceSha256": "8e7207356ea0c039835961b483bfcaf3718f5ca479e43f45c0598e15192b9a68",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 430104,
+      "thumbBytes": 93430
+    },
+    {
+      "id": "cet4-03-01",
+      "source": "CET4_40_Images_手绘生成版\\03_健康大学生活\\09_03-01_逐句拆解.png",
+      "sourceSha256": "a3ad7c6aa2498a58a6b3ec54e0fbf3f8728e0a95250f998b74e950ebdf0d5234",
+      "width": 972,
+      "height": 1619,
+      "fullBytes": 405300,
+      "thumbBytes": 88116
+    },
+    {
+      "id": "cet4-03-02",
+      "source": "CET4_40_Images_手绘生成版\\03_健康大学生活\\10_03-02_结构解析.png",
+      "sourceSha256": "00f05c3e6716e507d53573912d9d0f1dba3d7cf43819438531158876c9e0f450",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 452776,
+      "thumbBytes": 98278
+    },
+    {
+      "id": "cet4-03-03",
+      "source": "CET4_40_Images_手绘生成版\\03_健康大学生活\\11_03-03_记忆导图.png",
+      "sourceSha256": "cfa6f2d3d5e2f822b37592621f0b9498890504e0de04248c3ebc3e78793aa532",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 395652,
+      "thumbBytes": 93906
+    },
+    {
+      "id": "cet4-03-04",
+      "source": "CET4_40_Images_手绘生成版\\03_健康大学生活\\12_03-04_主题迁移.png",
+      "sourceSha256": "6d2028d1c4ecedae237951395b5d6c8622483778e602296f2725565ca585dabf",
+      "width": 948,
+      "height": 1660,
+      "fullBytes": 418264,
+      "thumbBytes": 93384
+    },
+    {
+      "id": "cet4-04-01",
+      "source": "CET4_40_Images_手绘生成版\\04_辨别网络真假信息\\13_04-01_逐句拆解.png",
+      "sourceSha256": "2008eb5dd8ec78d013c3711fabe2becffd399e23815c1e53ac39e635025bbead",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 408984,
+      "thumbBytes": 87460
+    },
+    {
+      "id": "cet4-04-02",
+      "source": "CET4_40_Images_手绘生成版\\04_辨别网络真假信息\\14_04-02_结构解析.png",
+      "sourceSha256": "956827a645d8c24b4184fe919e3467ae4f29c4e57e13f41e85a4dd8b33e68361",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 368666,
+      "thumbBytes": 83002
+    },
+    {
+      "id": "cet4-04-03",
+      "source": "CET4_40_Images_手绘生成版\\04_辨别网络真假信息\\15_04-03_记忆导图.png",
+      "sourceSha256": "19cb27a38fe8d52daaa377658e14e22d130042ea424a28758b450e6e28df065a",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 395524,
+      "thumbBytes": 87580
+    },
+    {
+      "id": "cet4-04-04",
+      "source": "CET4_40_Images_手绘生成版\\04_辨别网络真假信息\\16_04-04_主题迁移.png",
+      "sourceSha256": "c91f7f9ea96d30ccac5cda5ccb941367b0d094680623e621dc181eed9d0b9832",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 402634,
+      "thumbBytes": 87152
+    },
+    {
+      "id": "cet4-05-01",
+      "source": "CET4_40_Images_手绘生成版\\05_团队合作的重要性\\17_05-01_逐句拆解.png",
+      "sourceSha256": "03bf95f050e8b5bc55eefd0d2cef2acae621311dcae631d6b44be23b5124da62",
+      "width": 1024,
+      "height": 1536,
+      "fullBytes": 384948,
+      "thumbBytes": 74910
+    },
+    {
+      "id": "cet4-05-02",
+      "source": "CET4_40_Images_手绘生成版\\05_团队合作的重要性\\18_05-02_结构解析.png",
+      "sourceSha256": "ae31fabc6338219e0c61cc032ea53725bd070704560b8d715593127bf52844b8",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 370336,
+      "thumbBytes": 79492
+    },
+    {
+      "id": "cet4-05-03",
+      "source": "CET4_40_Images_手绘生成版\\05_团队合作的重要性\\19_05-03_记忆导图.png",
+      "sourceSha256": "b269cffa024474c2e4448a2617c751de423da66384e641de109874e81e4fa685",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 386344,
+      "thumbBytes": 88052
+    },
+    {
+      "id": "cet4-05-04",
+      "source": "CET4_40_Images_手绘生成版\\05_团队合作的重要性\\20_05-04_主题迁移.png",
+      "sourceSha256": "ad6356f816dd9414d52d9c13aafe40260aca5329609311a8b6368810cdfbcb32",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 478840,
+      "thumbBytes": 100746
+    },
+    {
+      "id": "cet4-06-01",
+      "source": "CET4_40_Images_手绘生成版\\06_建设绿色校园\\21_06-01_逐句拆解.png",
+      "sourceSha256": "67da86e321575a3695f750c850486e6ca788e1a42a2c33ecc10599b75db38f45",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 342946,
+      "thumbBytes": 81384
+    },
+    {
+      "id": "cet4-06-02",
+      "source": "CET4_40_Images_手绘生成版\\06_建设绿色校园\\22_06-02_结构解析.png",
+      "sourceSha256": "d7ea449768f000c0e32bd4c5d90fc0811695be9e9ef991f40792039f244f1161",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 420706,
+      "thumbBytes": 97388
+    },
+    {
+      "id": "cet4-06-03",
+      "source": "CET4_40_Images_手绘生成版\\06_建设绿色校园\\23_06-03_记忆导图.png",
+      "sourceSha256": "19e2c537ca2efda6af411bebc0490f6730462a3e9586a0789001e82931e562fc",
+      "width": 948,
+      "height": 1660,
+      "fullBytes": 449610,
+      "thumbBytes": 102434
+    },
+    {
+      "id": "cet4-06-04",
+      "source": "CET4_40_Images_手绘生成版\\06_建设绿色校园\\24_06-04_主题迁移.png",
+      "sourceSha256": "2ff4995a013986baf1825e65f013d9ce74c6f59a10a3df2698f97e3fb77ed940",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 451530,
+      "thumbBytes": 97558
+    },
+    {
+      "id": "cet4-07-01",
+      "source": "CET4_40_Images_手绘生成版\\07_传承中国传统文化\\25_07-01_逐句拆解.png",
+      "sourceSha256": "ed76bf81d9bf7a53f6ac7ff6b1a4f033e33983a47a826fcde932366eda91bff8",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 427844,
+      "thumbBytes": 92706
+    },
+    {
+      "id": "cet4-07-02",
+      "source": "CET4_40_Images_手绘生成版\\07_传承中国传统文化\\26_07-02_结构解析.png",
+      "sourceSha256": "4f69c86f691d5daf26ff9e5002eb50b7fcc52ca4df2e4d768d702e84f6da8646",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 365648,
+      "thumbBytes": 77528
+    },
+    {
+      "id": "cet4-07-03",
+      "source": "CET4_40_Images_手绘生成版\\07_传承中国传统文化\\27_07-03_记忆导图.png",
+      "sourceSha256": "e9f0a13573962924de609b3c363974517a8a81632cf344673192523ae9561946",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 409766,
+      "thumbBytes": 98342
+    },
+    {
+      "id": "cet4-07-04",
+      "source": "CET4_40_Images_手绘生成版\\07_传承中国传统文化\\28_07-04_主题迁移.png",
+      "sourceSha256": "131857ecac38c8f52e2ce353f4239afdb3e094414af1b1a94290ac594b981446",
+      "width": 948,
+      "height": 1659,
+      "fullBytes": 507110,
+      "thumbBytes": 107038
+    },
+    {
+      "id": "cet4-08-01",
+      "source": "CET4_40_Images_手绘生成版\\08_建议信：改善图书馆服务\\29_08-01_逐句拆解.png",
+      "sourceSha256": "45f178fcfa2b35397bab522a930b0c53bdfbb502c4d69e13d7b699c7f8420eab",
+      "width": 1024,
+      "height": 1536,
+      "fullBytes": 413434,
+      "thumbBytes": 77408
+    },
+    {
+      "id": "cet4-08-02",
+      "source": "CET4_40_Images_手绘生成版\\08_建议信：改善图书馆服务\\30_08-02_结构解析.png",
+      "sourceSha256": "ef898bee5f86c9088b1173f6ba4d1c810c66c24e1055801935013f4cdc072e23",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 380226,
+      "thumbBytes": 77912
+    },
+    {
+      "id": "cet4-08-03",
+      "source": "CET4_40_Images_手绘生成版\\08_建议信：改善图书馆服务\\31_08-03_记忆导图.png",
+      "sourceSha256": "a35c8cdf855297321d8a1957fa6075aa9ccd9484724c097dd07b458d5442b459",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 384224,
+      "thumbBytes": 87356
+    },
+    {
+      "id": "cet4-08-04",
+      "source": "CET4_40_Images_手绘生成版\\08_建议信：改善图书馆服务\\32_08-04_主题迁移.png",
+      "sourceSha256": "e9423d1ab3142d82156401ce0f946c8a071f9b2e5192de342fd802d77586184d",
+      "width": 1024,
+      "height": 1536,
+      "fullBytes": 463828,
+      "thumbBytes": 87618
+    },
+    {
+      "id": "cet4-09-01",
+      "source": "CET4_40_Images_手绘生成版\\09_通知：英语演讲比赛\\33_09-01_逐句拆解.png",
+      "sourceSha256": "5839e4dbd0a72f7910b70253d3e70f15c0b127977b1dab833f7397a60d115a3a",
+      "width": 972,
+      "height": 1619,
+      "fullBytes": 362348,
+      "thumbBytes": 76668
+    },
+    {
+      "id": "cet4-09-02",
+      "source": "CET4_40_Images_手绘生成版\\09_通知：英语演讲比赛\\34_09-02_结构解析.png",
+      "sourceSha256": "7e5fbd6963f386010dcd7e63254f10be6c41d2a115272933eb8bb23209c404c0",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 369378,
+      "thumbBytes": 84012
+    },
+    {
+      "id": "cet4-09-03",
+      "source": "CET4_40_Images_手绘生成版\\09_通知：英语演讲比赛\\35_09-03_记忆导图.png",
+      "sourceSha256": "c666f6094f31f0389eb4a2e1e578716cb3d1123db9e970227ba155723d910240",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 422636,
+      "thumbBytes": 91126
+    },
+    {
+      "id": "cet4-09-04",
+      "source": "CET4_40_Images_手绘生成版\\09_通知：英语演讲比赛\\36_09-04_主题迁移.png",
+      "sourceSha256": "5479e520bf27cef035fe17b4e7d4e841461a3e49460bc90e4b1335dae5427c37",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 490634,
+      "thumbBytes": 102504
+    },
+    {
+      "id": "cet4-10-01",
+      "source": "CET4_40_Images_手绘生成版\\10_校园报道：志愿清洁活动\\37_10-01_逐句拆解.png",
+      "sourceSha256": "c089ad472b1fbc4d23c755df74dba00e3f7e8f1887743c5e319be903f8553b64",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 457016,
+      "thumbBytes": 97494
+    },
+    {
+      "id": "cet4-10-02",
+      "source": "CET4_40_Images_手绘生成版\\10_校园报道：志愿清洁活动\\38_10-02_结构解析.png",
+      "sourceSha256": "c69ff6b99c3f6add5b2b70d54d4eed743b7292f803d78169493efcd31964a60f",
+      "width": 971,
+      "height": 1620,
+      "fullBytes": 368784,
+      "thumbBytes": 79340
+    },
+    {
+      "id": "cet4-10-03",
+      "source": "CET4_40_Images_手绘生成版\\10_校园报道：志愿清洁活动\\39_10-03_记忆导图.png",
+      "sourceSha256": "24abd93efd8aed82b6acccc55623c3baff36c5fb94066500164ed4dd0abbc1bd",
+      "width": 948,
+      "height": 1660,
+      "fullBytes": 484864,
+      "thumbBytes": 108918
+    },
+    {
+      "id": "cet4-10-04",
+      "source": "CET4_40_Images_手绘生成版\\10_校园报道：志愿清洁活动\\40_10-04_主题迁移.png",
+      "sourceSha256": "14f73bf9204dcff0e56884ac180692cf8e5530aef28cb291c875d17f290bd73a",
+      "width": 971,
+      "height": 1619,
+      "fullBytes": 494280,
+      "thumbBytes": 101274
+    },
+    {
+      "id": "cet6-01-01",
+      "source": "CET6_40_Images\\01_自律与坚持\\01_01-01_逐句拆解.png",
+      "sourceSha256": "e2b43abbce025b9e65d51cde821d9eb55cba9b9ea978f3f00d149a483c4dbdd7",
+      "width": 1024,
+      "height": 1536,
+      "fullBytes": 426482,
+      "thumbBytes": 77110
+    },
+    {
+      "id": "cet6-01-02",
+      "source": "CET6_40_Images\\01_自律与坚持\\02_01-02_结构解析.png",
+      "sourceSha256": "781209cfd950ee76d48a68f778c459b5dc1664ee52f00f3f049558e9b82a4a02",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 380026,
+      "thumbBytes": 80904
+    },
+    {
+      "id": "cet6-01-03",
+      "source": "CET6_40_Images\\01_自律与坚持\\03_01-03_记忆导图.png",
+      "sourceSha256": "0c0f94867a6d4097f974155f776bf28da71d3c3b971817243f0363720fb69f0b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 427254,
+      "thumbBytes": 95426
+    },
+    {
+      "id": "cet6-01-04",
+      "source": "CET6_40_Images\\01_自律与坚持\\04_01-04_主题迁移.png",
+      "sourceSha256": "4c187777c2a7f2eff964dba9f04abc247f6ebe4ca4a8c4f7b8e98101d0520f7b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 415456,
+      "thumbBytes": 89130
+    },
+    {
+      "id": "cet6-02-01",
+      "source": "CET6_40_Images\\02_学习方法与自主学习\\05_02-01_逐句拆解.png",
+      "sourceSha256": "df5be151b1c638275e07c94150ee4b2d34c44f5abe8bae0465a26dc5830f875e",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 408360,
+      "thumbBytes": 89666
+    },
+    {
+      "id": "cet6-02-02",
+      "source": "CET6_40_Images\\02_学习方法与自主学习\\06_02-02_结构解析.png",
+      "sourceSha256": "22746da136399020058ce6bf5d3256214e4f9315b127b48f71f1c62943b9ac8b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 369656,
+      "thumbBytes": 82788
+    },
+    {
+      "id": "cet6-02-03",
+      "source": "CET6_40_Images\\02_学习方法与自主学习\\07_02-03_记忆导图.png",
+      "sourceSha256": "cfc03b375ccb7800b34dc0b6d998f0ffbf34a9d08cac77c499a24a9d2d234d1b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 463876,
+      "thumbBytes": 103286
+    },
+    {
+      "id": "cet6-02-04",
+      "source": "CET6_40_Images\\02_学习方法与自主学习\\08_02-04_主题迁移.png",
+      "sourceSha256": "dfe5c76fce138cc1b3c28ee4ed8b76f585bf6666ee9461e683908ba4f45d842b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 419978,
+      "thumbBytes": 91382
+    },
+    {
+      "id": "cet6-03-01",
+      "source": "CET6_40_Images\\03_数字时代的批判性思维\\09_03-01_逐句拆解.png",
+      "sourceSha256": "d0fcba24e91e18e6b77e6d686fba9ba2831f5bdf78db6fe4d7980445cc830b29",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 455238,
+      "thumbBytes": 95080
+    },
+    {
+      "id": "cet6-03-02",
+      "source": "CET6_40_Images\\03_数字时代的批判性思维\\10_03-02_结构解析.png",
+      "sourceSha256": "45d429187ac5684bd3ca01cd5104a6b76d21317b151a56525127cf063d5c0c0f",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 382020,
+      "thumbBytes": 83352
+    },
+    {
+      "id": "cet6-03-03",
+      "source": "CET6_40_Images\\03_数字时代的批判性思维\\11_03-03_记忆导图.png",
+      "sourceSha256": "460c78351be7b48ba567ef8a2fa6815a785b76d2c70313e344ed2091a32e4b63",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 468976,
+      "thumbBytes": 105136
+    },
+    {
+      "id": "cet6-03-04",
+      "source": "CET6_40_Images\\03_数字时代的批判性思维\\12_03-04_主题迁移.png",
+      "sourceSha256": "ba3073aec3a234a6fe4432941aa43d8e6ba9a92ada9747619939c738061bd4a3",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 446446,
+      "thumbBytes": 96428
+    },
+    {
+      "id": "cet6-04-01",
+      "source": "CET6_40_Images\\04_人工智能与人类创造力\\13_04-01_逐句拆解.png",
+      "sourceSha256": "9f2e3414200fe2d9267ee5aca86b27935af11be185beeaf3cab5a9fb99719464",
+      "width": 940,
+      "height": 1672,
+      "fullBytes": 430254,
+      "thumbBytes": 92124
+    },
+    {
+      "id": "cet6-04-02",
+      "source": "CET6_40_Images\\04_人工智能与人类创造力\\14_04-02_结构解析.png",
+      "sourceSha256": "37ce25ef7a8522a19c63b62d491965382fc24dd31960c0630bf7c036cc38db9c",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 386614,
+      "thumbBytes": 85448
+    },
+    {
+      "id": "cet6-04-03",
+      "source": "CET6_40_Images\\04_人工智能与人类创造力\\15_04-03_记忆导图.png",
+      "sourceSha256": "321c000a93d7b54fdc6e7e512ae67c5baf1b0638d14c92d64bf81a288de9ff49",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 466636,
+      "thumbBytes": 103908
+    },
+    {
+      "id": "cet6-04-04",
+      "source": "CET6_40_Images\\04_人工智能与人类创造力\\16_04-04_主题迁移.png",
+      "sourceSha256": "cc57a0ba959769e1303d38159e1220c6f036dfa6887ef437877e02703e1f344e",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 419930,
+      "thumbBytes": 93248
+    },
+    {
+      "id": "cet6-05-01",
+      "source": "CET6_40_Images\\05_团队合作与沟通\\17_05-01_逐句拆解.png",
+      "sourceSha256": "090d29a81e39eda5fa4180480e8716df2c67775aa789b2d3f192e506d656cd04",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 430684,
+      "thumbBytes": 91698
+    },
+    {
+      "id": "cet6-05-02",
+      "source": "CET6_40_Images\\05_团队合作与沟通\\18_05-02_结构解析.png",
+      "sourceSha256": "367f891e7d15172168478715c8d41c344ea17c6323d6536064f436966965c580",
+      "width": 940,
+      "height": 1672,
+      "fullBytes": 369334,
+      "thumbBytes": 80538
+    },
+    {
+      "id": "cet6-05-03",
+      "source": "CET6_40_Images\\05_团队合作与沟通\\19_05-03_记忆导图.png",
+      "sourceSha256": "a3a64ed5e867a2fae9819ce000b9c984d9152aa3765158ff0ed3f36b44d9c5a5",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 451666,
+      "thumbBytes": 100878
+    },
+    {
+      "id": "cet6-05-04",
+      "source": "CET6_40_Images\\05_团队合作与沟通\\20_05-04_主题迁移.png",
+      "sourceSha256": "31fbf4aa30f486136c0574c331b302830f38d7653d37cf69bdfbf04aed1aa16e",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 416544,
+      "thumbBytes": 91686
+    },
+    {
+      "id": "cet6-06-01",
+      "source": "CET6_40_Images\\06_责任感与帮助他人\\21_06-01_逐句拆解.png",
+      "sourceSha256": "d889b3fe6557582911c310f89d11596a5c0e36c79eddb0a4cbcd42a78c1e7aba",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 417002,
+      "thumbBytes": 92486
+    },
+    {
+      "id": "cet6-06-02",
+      "source": "CET6_40_Images\\06_责任感与帮助他人\\22_06-02_结构解析.png",
+      "sourceSha256": "39f81d0a4fbaef21c6ed720b8126065cef063e141f352ebf138a7e0403d039fa",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 368386,
+      "thumbBytes": 80086
+    },
+    {
+      "id": "cet6-06-03",
+      "source": "CET6_40_Images\\06_责任感与帮助他人\\23_06-03_记忆导图.png",
+      "sourceSha256": "459ced06bf243335eb8dac4f0093f26964f69f4670646cfca1827a7b832420d2",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 464078,
+      "thumbBytes": 103042
+    },
+    {
+      "id": "cet6-06-04",
+      "source": "CET6_40_Images\\06_责任感与帮助他人\\24_06-04_主题迁移.png",
+      "sourceSha256": "fa45d0a7da0eae1724f67493af6344ff84d5d461fbc9418406719f2081e07579",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 408728,
+      "thumbBytes": 90176
+    },
+    {
+      "id": "cet6-07-01",
+      "source": "CET6_40_Images\\07_理解与传承中华传统文化\\25_07-01_逐句拆解.png",
+      "sourceSha256": "fb057c0c3dbf93dff9a62b620c9031fefc6b77a03737346021f0cfbfec4bd34f",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 451994,
+      "thumbBytes": 94676
+    },
+    {
+      "id": "cet6-07-02",
+      "source": "CET6_40_Images\\07_理解与传承中华传统文化\\26_07-02_结构解析.png",
+      "sourceSha256": "e9415c5e9e48cb145233541f5e174a3dc286679d0e21427d33b444b412662501",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 401248,
+      "thumbBytes": 85482
+    },
+    {
+      "id": "cet6-07-03",
+      "source": "CET6_40_Images\\07_理解与传承中华传统文化\\27_07-03_记忆导图.png",
+      "sourceSha256": "a4484a66bd719be85d85523f1d07c85ff15195de2cd5ad1070e9cc27737b8c25",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 479268,
+      "thumbBytes": 107524
+    },
+    {
+      "id": "cet6-07-04",
+      "source": "CET6_40_Images\\07_理解与传承中华传统文化\\28_07-04_主题迁移.png",
+      "sourceSha256": "c3c5812c00117673d46a3d513ac5631ce854dc296d533b001b982e460b103597",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 433798,
+      "thumbBytes": 95024
+    },
+    {
+      "id": "cet6-08-01",
+      "source": "CET6_40_Images\\08_心理健康与生活平衡\\29_08-01_逐句拆解.png",
+      "sourceSha256": "7dc6b6bd313b14cd52dece5b8e7e335c4e7e9f7701a2e8d826d6672892845f12",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 439666,
+      "thumbBytes": 95294
+    },
+    {
+      "id": "cet6-08-02",
+      "source": "CET6_40_Images\\08_心理健康与生活平衡\\30_08-02_结构解析.png",
+      "sourceSha256": "945d85c6902a95196fd0b2967339520b3dca96f800b8f7e98e6a7388951ec6b8",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 387936,
+      "thumbBytes": 85840
+    },
+    {
+      "id": "cet6-08-03",
+      "source": "CET6_40_Images\\08_心理健康与生活平衡\\31_08-03_记忆导图.png",
+      "sourceSha256": "a78bed73270329efccfddbf86c4b21e4152a53878e03d7b5b8ec8136cbe66c23",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 474142,
+      "thumbBytes": 105048
+    },
+    {
+      "id": "cet6-08-04",
+      "source": "CET6_40_Images\\08_心理健康与生活平衡\\32_08-04_主题迁移.png",
+      "sourceSha256": "df8083bcb5c5d93950a0cda216114d2addd88107a790320279280bce559425d8",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 429048,
+      "thumbBytes": 91516
+    },
+    {
+      "id": "cet6-09-01",
+      "source": "CET6_40_Images\\09_环保的生活方式\\33_09-01_逐句拆解.png",
+      "sourceSha256": "622027d2fe8954a7c6d0e7c4c4f44a3e77a70233314552cad1b42178be3cdee5",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 468144,
+      "thumbBytes": 99088
+    },
+    {
+      "id": "cet6-09-02",
+      "source": "CET6_40_Images\\09_环保的生活方式\\34_09-02_结构解析.png",
+      "sourceSha256": "b3a0489b40e107463196624b17c48b19998c99acc562ebf07e733e5e936d96b7",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 417364,
+      "thumbBytes": 94192
+    },
+    {
+      "id": "cet6-09-03",
+      "source": "CET6_40_Images\\09_环保的生活方式\\35_09-03_记忆导图.png",
+      "sourceSha256": "110b1df6123a873ab2a62cc6ae83b660cc55985c079f8ddc38e4bb46d36f10f7",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 473172,
+      "thumbBytes": 106034
+    },
+    {
+      "id": "cet6-09-04",
+      "source": "CET6_40_Images\\09_环保的生活方式\\36_09-04_主题迁移.png",
+      "sourceSha256": "ed2fe9482f86056f09456e24e90209a693f0c54498b39a365e2744adb9e63a0b",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 438360,
+      "thumbBytes": 94760
+    },
+    {
+      "id": "cet6-10-01",
+      "source": "CET6_40_Images\\10_个人成长与国家发展\\37_10-01_逐句拆解.png",
+      "sourceSha256": "16303cb3e6462af79e42534dcafd9847334ff739cc9e20d4e036d812e2a66a3f",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 450402,
+      "thumbBytes": 94534
+    },
+    {
+      "id": "cet6-10-02",
+      "source": "CET6_40_Images\\10_个人成长与国家发展\\38_10-02_结构解析.png",
+      "sourceSha256": "726c27ccdc0d2b6334c222dd0a5b42e2e44507e2d4b359acf150128774a119a6",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 399292,
+      "thumbBytes": 87612
+    },
+    {
+      "id": "cet6-10-03",
+      "source": "CET6_40_Images\\10_个人成长与国家发展\\39_10-03_记忆导图.png",
+      "sourceSha256": "6b2e80d363a024077839c1142bec3df1f1c566396c80815bd0c62c1322703330",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 476700,
+      "thumbBytes": 108784
+    },
+    {
+      "id": "cet6-10-04",
+      "source": "CET6_40_Images\\10_个人成长与国家发展\\40_10-04_主题迁移.png",
+      "sourceSha256": "7047385a21040b639e13314a9f1f6dc5a270e3d92c36efebf2950c52a5d20de4",
+      "width": 941,
+      "height": 1672,
+      "fullBytes": 443922,
+      "thumbBytes": 94024
+    }
+  ],
+  "targetAdjustments": [
+    {
+      "id": "cet6-01",
+      "studyPhrase": "keep a record of our progress",
+      "exactBodyPhrase": "Keeping a record of our progress"
+    },
+    {
+      "id": "cet6-02",
+      "studyPhrase": "take responsibility for our studies",
+      "exactBodyPhrase": "take greater responsibility for our studies"
+    },
+    {
+      "id": "cet6-06",
+      "studyPhrase": "fulfill our duties",
+      "exactBodyPhrase": "fulfilling our duties"
+    },
+    {
+      "id": "cet6-07",
+      "studyPhrase": "preserve valuable practices",
+      "exactBodyPhrase": "preserving valuable practices"
+    },
+    {
+      "id": "cet6-09",
+      "studyPhrase": "reduce unnecessary consumption",
+      "exactBodyPhrase": "reducing unnecessary consumption"
+    },
+    {
+      "id": "cet6-09",
+      "studyPhrase": "make choices more accessible",
+      "exactBodyPhrase": "make environmentally friendly choices more accessible"
+    },
+    {
+      "id": "cet6-09",
+      "studyPhrase": "improve facilities",
+      "exactBodyPhrase": "improving facilities"
+    },
+    {
+      "id": "cet6-10",
+      "studyPhrase": "make good use of these opportunities",
+      "exactBodyPhrase": "making good use of these opportunities"
+    },
+    {
+      "id": "cet6-10",
+      "studyPhrase": "address a real need",
+      "exactBodyPhrase": "addressing a real need"
+    }
+  ],
+  "notes": [
+    "English article text is taken only from the provided source materials.",
+    "CET4 paragraphs follow blank quoted lines in the original Markdown, not logical section boundaries in JSON.",
+    "CET6 source supplies paragraph translations. Its sentence.zh is explicitly a paragraph reference, not a fabricated sentence alignment.",
+    "Unverified exam frequency, coverage, prediction, and scoring claims are not included.",
+    "All original PNG artwork is retained unmodified. WebP assets are full resolution at quality 88; thumbnails are 400 px wide."
+  ],
+  "summary": {
+    "articleCount": 20,
+    "imageCount": 80,
+    "generatedAssetCount": 160,
+    "allEnglishSourceChecksPassed": true,
+    "allTargetSubstringChecksPassed": true,
+    "fullImageBytes": 33783276,
+    "thumbnailBytes": 7339064
+  }
+}
