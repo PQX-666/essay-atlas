@@ -1,6 +1,6 @@
 作文集
 
-在线版：通过 GitHub 仓库 PQX-666/essay-atlas 的 Actions 发布到 GitHub Pages，可公开访问。
+在线版：GitHub 仓库 PQX-666/essay-atlas 已配置Actions；当前保持私有，等待公开发布授权后启用Pages。
 离线版：打开 dist/index.html，完整保留 dist/assets 文件夹。
 本机预览：使用 Node.js 运行 serve.mjs，访问 http://127.0.0.1:4173。
 
