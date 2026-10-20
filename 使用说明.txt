@@ -5,7 +5,7 @@
 指南另开标签页，方便边学边查，保留原练习现场。
 内容包含设计依据、首次上手、五种回忆方式、到期复习、迁移练习、每日安排、常见问题及备份方法。
 
-在线版：GitHub 仓库 PQX-666/essay-atlas 已配置Actions；当前保持私有，等待公开发布授权后启用Pages。
+在线版：https://pqx-666.github.io/essay-atlas/ 。GitHub仓库 PQX-666/essay-atlas 已公开，由Actions自动检查并发布。
 离线版：打开 dist/index.html，完整保留 dist/assets 文件夹。
 本机预览：使用 Node.js 运行 serve.mjs，访问 http://127.0.0.1:4173。
 

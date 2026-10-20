@@ -1,10 +1,11 @@
 作文集 · GitHub Pages
 
 仓库：PQX-666/essay-atlas
+网站：https://pqx-666.github.io/essay-atlas/
 发布源：GitHub Actions，部署 dist/ 目录。
 
 main 分支每次推送后，先运行25项内容和学习流程测试。
-当前仓库保持私有，只运行测试。确认改为公开并启用Pages后，测试通过才发布网站。
+仓库已公开，GitHub Pages已启用；每次推送通过测试后自动发布网站。
 Pull request 只运行测试，不发布。
 无需安装npm依赖、无需服务端密钥。
 
